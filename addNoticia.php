@@ -9,6 +9,11 @@
  
 	</head>
 	<body>
+	<br>
+	<br>
+	<br>
+	<br>
+	<h1>Hola soy el titulo nuevo loco!!1</h1>
 		<div style=" margin-top: 70px;" >
 			<?php include('includes/nav.php') ?>
 		</div>
