@@ -19,7 +19,7 @@
 						<div class="form-group ">
 							<label for="inputTitulo" class="">Titulo</label>
 							<div class="">
-								<input type="text" class="form-control" id="inputTitulo" placeholder="Titulo" name="titulo" value="" required>
+								<input type="text" class="form-control" id="inputTitulo" placeholder="Titulo de la noticia" name="titulo" value="" required>
 							</div>
 						</div>
 						<div class="form-group">
